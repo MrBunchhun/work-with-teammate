@@ -1,2 +1,2 @@
 # work-with-teammate
-Learn and practice project Web design
+Learn and practice project Web design.
